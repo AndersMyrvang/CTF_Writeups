@@ -23,5 +23,5 @@ Challenge link: [https://play.picoctf.org/practice/challenge/322]
 3. List the files in the directory to get an idea of what we are dealing with.
 4. Search for the flag using grep. The command I used is:
     grep pico -r ./big-zip-files 
-   Reasoning: The flag is usually in the format picoCTF{<flag>}.
+   Reasoning: The flag is usually in the format picoCTF{<flag>}
 ```
