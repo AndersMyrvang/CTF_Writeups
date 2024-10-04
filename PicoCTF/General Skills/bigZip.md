@@ -6,13 +6,13 @@
 ## Challenge information
 ```
 Points: 100
-Tags: picoGym Exclusive, General Skills
+Tags: picoGym Exclusive, General Skills, Easy
 Author: LT 'SYREAL' JONES
 
 Description:
 Unzip this archive and find the flag.
 
-Challenge link: [https://play.picoctf.org/practice/challenge/322](https://play.picoctf.org/practice/challenge/322)
+Challenge link: [https://play.picoctf.org/practice/challenge/322]
 ```
 ## Solution
 
