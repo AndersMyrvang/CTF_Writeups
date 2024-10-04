@@ -1,8 +1,5 @@
 # Information
 
-- [Challenge information](#challenge-information)
-- [Solution](#solution)
-
 ## Challenge information
 ```
 Tags: picoCTF 2021, Forensics, Easy

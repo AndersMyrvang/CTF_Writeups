@@ -1,8 +1,5 @@
 # Transformation
 
-- [Challenge information](#challenge-information)
-- [Solution](#solution)
-
 ## Challenge information
 ```
 Tags: picoCTF 2021, Reverse Engineering, Easy

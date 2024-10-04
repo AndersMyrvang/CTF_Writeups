@@ -1,8 +1,5 @@
 # Mod 26
 
-- [Challenge information](#challenge-information)
-- [Solution](#solution)
-
 ## Challenge information
 ```
 Tags: picoCTF 2021, Cryptography, Easy

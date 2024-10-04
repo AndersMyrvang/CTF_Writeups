@@ -1,8 +1,5 @@
 # First Find
 
-- [Challenge information](#challenge-information)
-- [Solution](#solution)
-
 ## Challenge information
 ```
 Tags: picoGym Exclusive, General Skills, Easy
